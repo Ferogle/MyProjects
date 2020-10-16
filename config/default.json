@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Srikar:JfL6MUHTacriqESw@cluster0.ifmad.mongodb.net/blog?retryWrites=true&w=majority",
+  "jwtToken": "myproject",
+  "clientId":"8ede455603f0364e2c09",
+  "clientSecret":"e4bb1ac1104e342ddf8030b45b92ce073ae543fb"
+}
